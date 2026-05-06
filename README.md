@@ -1,4 +1,4 @@
-# Company Memory
+# Tel
 
 A lightweight agent-based system to ingest, organize, and query company communications. Groups can drop files (emails, docs, notes) into an ingestion folder, and agents process them into a structured memory system.
 
@@ -10,8 +10,8 @@ A lightweight agent-based system to ingest, organize, and query company communic
 ## Setup
 1. Clone the repo:
    ```bash
-   git clone /home/till/projects/company-memory
-   cd company-memory
+   git clone /home/till/projects/TelCom
+   cd TelCom
    ```
 2. Initialize the database:
    ```bash
